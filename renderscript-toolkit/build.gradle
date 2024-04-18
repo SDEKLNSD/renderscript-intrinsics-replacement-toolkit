@@ -78,8 +78,8 @@ dependencies {
 publishing {
     publications {
         maven(MavenPublication) {
-            groupId = 'com.github.geek-atif'
-            artifactId = 'com-atifqamar-customtoast'
+            groupId = 'com.github.SDEKLNSD'
+            artifactId = 'renderscript-intrinsics-replacement-toolkit'
             version = "1.0"
             pom {
                 description = 'First release'
